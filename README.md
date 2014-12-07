@@ -12,6 +12,8 @@ Raspberry_Pi_Web_Player
 
 修改main.py和player.py中的base_dir, 指向存放音乐的文件夹
 
+###启动
+`python main.py`
 ===
 ###Todo
 - [ ] 配置文件独立
