@@ -5,7 +5,7 @@ Raspberry_Pi_Web_Player
 
 ===
 ###需要
-1.安装[webpy](http://webpy.org)  `sudo easy_install web.py`
+1.安装[webpy](http://webpy.org)  `sudo easy_install web.py`  
 2.安装[mplayer](http://www.mplayerhq.hu)
 
 ###配置
