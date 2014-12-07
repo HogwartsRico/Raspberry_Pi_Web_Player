@@ -5,12 +5,12 @@ Raspberry_Pi_Web_Player
 
 ===
 ###需要
-1.安装[webpy](http://webpy.org)  
+1.安装[webpy](http://webpy.org)  `sudo easy_install web.py`
 2.安装[mplayer](http://www.mplayerhq.hu)
 
 ###配置
 
-修改main.py中的base_dir, 指向存放音乐的文件夹
+修改main.py和player.py中的base_dir, 指向存放音乐的文件夹
 
 ===
 ###Todo
